@@ -1,0 +1,161 @@
+Data,Produto,Vendas,Disp_IA,Ordem_Emitida_IA,Qtd_Falha_IA,order_date,Product Name,Qtd_Falha_Real
+2017-09-01,Field & Stream Sportsman 16 Gun Fire Safe,15,15,20,0,2017-09-01,Field & Stream Sportsman 16 Gun Fire Safe,4
+2017-09-01,Nike Men's CJ Elite 2 TD Football Cleat,20,20,21,0,2017-09-01,Nike Men's CJ Elite 2 TD Football Cleat,3
+2017-09-01,Nike Men's Dri-FIT Victory Golf Polo,96,96,72,0,2017-09-01,Nike Men's Dri-FIT Victory Golf Polo,10
+2017-09-01,O'Brien Men's Neoprene Life Vest,54,54,50,0,2017-09-01,O'Brien Men's Neoprene Life Vest,4
+2017-09-01,Perfect Fitness Perfect Rip Deck,78,78,65,0,2017-09-01,Perfect Fitness Perfect Rip Deck,6
+2017-09-02,Field & Stream Sportsman 16 Gun Fire Safe,12,0,20,12,2017-09-02,Field & Stream Sportsman 16 Gun Fire Safe,2
+2017-09-02,Nike Men's CJ Elite 2 TD Football Cleat,29,0,21,29,2017-09-02,Nike Men's CJ Elite 2 TD Football Cleat,8
+2017-09-02,Nike Men's Dri-FIT Victory Golf Polo,64,0,72,64,2017-09-02,Nike Men's Dri-FIT Victory Golf Polo,5
+2017-09-02,O'Brien Men's Neoprene Life Vest,83,0,50,83,2017-09-02,O'Brien Men's Neoprene Life Vest,10
+2017-09-02,Perfect Fitness Perfect Rip Deck,73,0,65,73,2017-09-02,Perfect Fitness Perfect Rip Deck,4
+2017-09-03,Field & Stream Sportsman 16 Gun Fire Safe,18,0,20,18,2017-09-03,Field & Stream Sportsman 16 Gun Fire Safe,1
+2017-09-03,Nike Men's CJ Elite 2 TD Football Cleat,17,0,21,17,2017-09-03,Nike Men's CJ Elite 2 TD Football Cleat,4
+2017-09-03,Nike Men's Dri-FIT Victory Golf Polo,51,0,72,51,2017-09-03,Nike Men's Dri-FIT Victory Golf Polo,4
+2017-09-03,O'Brien Men's Neoprene Life Vest,75,0,50,75,2017-09-03,O'Brien Men's Neoprene Life Vest,6
+2017-09-03,Perfect Fitness Perfect Rip Deck,101,0,65,101,2017-09-03,Perfect Fitness Perfect Rip Deck,5
+2017-09-04,Field & Stream Sportsman 16 Gun Fire Safe,17,0,20,17,2017-09-04,Field & Stream Sportsman 16 Gun Fire Safe,6
+2017-09-04,Nike Men's CJ Elite 2 TD Football Cleat,21,0,21,21,2017-09-04,Nike Men's CJ Elite 2 TD Football Cleat,5
+2017-09-04,Nike Men's Dri-FIT Victory Golf Polo,66,0,72,66,2017-09-04,Nike Men's Dri-FIT Victory Golf Polo,4
+2017-09-04,O'Brien Men's Neoprene Life Vest,53,0,50,53,2017-09-04,O'Brien Men's Neoprene Life Vest,2
+2017-09-04,Perfect Fitness Perfect Rip Deck,68,0,65,68,2017-09-04,Perfect Fitness Perfect Rip Deck,7
+2017-09-05,Field & Stream Sportsman 16 Gun Fire Safe,18,0,20,18,2017-09-05,Field & Stream Sportsman 16 Gun Fire Safe,1
+2017-09-05,Nike Men's CJ Elite 2 TD Football Cleat,20,0,21,20,2017-09-05,Nike Men's CJ Elite 2 TD Football Cleat,5
+2017-09-05,Nike Men's Dri-FIT Victory Golf Polo,49,0,72,49,2017-09-05,Nike Men's Dri-FIT Victory Golf Polo,3
+2017-09-05,O'Brien Men's Neoprene Life Vest,52,0,50,52,2017-09-05,O'Brien Men's Neoprene Life Vest,4
+2017-09-05,Perfect Fitness Perfect Rip Deck,62,0,65,62,2017-09-05,Perfect Fitness Perfect Rip Deck,6
+2017-09-06,Field & Stream Sportsman 16 Gun Fire Safe,16,0,20,16,2017-09-06,Field & Stream Sportsman 16 Gun Fire Safe,7
+2017-09-06,Nike Men's CJ Elite 2 TD Football Cleat,26,0,21,26,2017-09-06,Nike Men's CJ Elite 2 TD Football Cleat,3
+2017-09-06,Nike Men's Dri-FIT Victory Golf Polo,60,0,72,60,2017-09-06,Nike Men's Dri-FIT Victory Golf Polo,3
+2017-09-06,O'Brien Men's Neoprene Life Vest,51,0,50,51,2017-09-06,O'Brien Men's Neoprene Life Vest,7
+2017-09-06,Perfect Fitness Perfect Rip Deck,72,0,65,72,2017-09-06,Perfect Fitness Perfect Rip Deck,3
+2017-09-07,Field & Stream Sportsman 16 Gun Fire Safe,13,20,20,0,2017-09-07,Field & Stream Sportsman 16 Gun Fire Safe,2
+2017-09-07,Nike Men's CJ Elite 2 TD Football Cleat,16,21,21,0,2017-09-07,Nike Men's CJ Elite 2 TD Football Cleat,6
+2017-09-07,Nike Men's Dri-FIT Victory Golf Polo,64,72,72,0,2017-09-07,Nike Men's Dri-FIT Victory Golf Polo,7
+2017-09-07,O'Brien Men's Neoprene Life Vest,47,50,50,0,2017-09-07,O'Brien Men's Neoprene Life Vest,4
+2017-09-07,Perfect Fitness Perfect Rip Deck,47,65,65,0,2017-09-07,Perfect Fitness Perfect Rip Deck,5
+2017-09-08,Field & Stream Sportsman 16 Gun Fire Safe,12,27,20,0,2017-09-08,Field & Stream Sportsman 16 Gun Fire Safe,3
+2017-09-08,Nike Men's CJ Elite 2 TD Football Cleat,20,26,21,0,2017-09-08,Nike Men's CJ Elite 2 TD Football Cleat,3
+2017-09-08,Nike Men's Dri-FIT Victory Golf Polo,82,80,72,2,2017-09-08,Nike Men's Dri-FIT Victory Golf Polo,8
+2017-09-08,O'Brien Men's Neoprene Life Vest,26,53,50,0,2017-09-08,O'Brien Men's Neoprene Life Vest,2
+2017-09-08,Perfect Fitness Perfect Rip Deck,85,83,65,2,2017-09-08,Perfect Fitness Perfect Rip Deck,4
+2017-09-09,Field & Stream Sportsman 16 Gun Fire Safe,16,35,20,0,2017-09-09,Field & Stream Sportsman 16 Gun Fire Safe,1
+2017-09-09,Nike Men's CJ Elite 2 TD Football Cleat,22,27,21,0,2017-09-09,Nike Men's CJ Elite 2 TD Football Cleat,2
+2017-09-09,Nike Men's Dri-FIT Victory Golf Polo,60,72,72,0,2017-09-09,Nike Men's Dri-FIT Victory Golf Polo,3
+2017-09-09,O'Brien Men's Neoprene Life Vest,25,77,50,0,2017-09-09,O'Brien Men's Neoprene Life Vest,3
+2017-09-09,Perfect Fitness Perfect Rip Deck,83,65,65,18,2017-09-09,Perfect Fitness Perfect Rip Deck,3
+2017-09-10,Field & Stream Sportsman 16 Gun Fire Safe,22,39,20,0,2017-09-10,Field & Stream Sportsman 16 Gun Fire Safe,3
+2017-09-10,Nike Men's CJ Elite 2 TD Football Cleat,24,26,21,0,2017-09-10,Nike Men's CJ Elite 2 TD Football Cleat,6
+2017-09-10,Nike Men's Dri-FIT Victory Golf Polo,71,84,72,0,2017-09-10,Nike Men's Dri-FIT Victory Golf Polo,4
+2017-09-10,O'Brien Men's Neoprene Life Vest,47,102,50,0,2017-09-10,O'Brien Men's Neoprene Life Vest,3
+2017-09-10,Perfect Fitness Perfect Rip Deck,74,65,65,9,2017-09-10,Perfect Fitness Perfect Rip Deck,2
+2017-09-11,Field & Stream Sportsman 16 Gun Fire Safe,26,37,20,0,2017-09-11,Field & Stream Sportsman 16 Gun Fire Safe,4
+2017-09-11,Nike Men's CJ Elite 2 TD Football Cleat,21,23,21,0,2017-09-11,Nike Men's CJ Elite 2 TD Football Cleat,4
+2017-09-11,Nike Men's Dri-FIT Victory Golf Polo,78,85,72,0,2017-09-11,Nike Men's Dri-FIT Victory Golf Polo,1
+2017-09-11,O'Brien Men's Neoprene Life Vest,48,105,50,0,2017-09-11,O'Brien Men's Neoprene Life Vest,2
+2017-09-11,Perfect Fitness Perfect Rip Deck,67,65,65,2,2017-09-11,Perfect Fitness Perfect Rip Deck,5
+2017-09-12,Field & Stream Sportsman 16 Gun Fire Safe,27,31,20,0,2017-09-12,Field & Stream Sportsman 16 Gun Fire Safe,2
+2017-09-12,Nike Men's CJ Elite 2 TD Football Cleat,24,23,21,1,2017-09-12,Nike Men's CJ Elite 2 TD Football Cleat,3
+2017-09-12,Nike Men's Dri-FIT Victory Golf Polo,79,79,72,0,2017-09-12,Nike Men's Dri-FIT Victory Golf Polo,3
+2017-09-12,O'Brien Men's Neoprene Life Vest,56,107,50,0,2017-09-12,O'Brien Men's Neoprene Life Vest,3
+2017-09-12,Perfect Fitness Perfect Rip Deck,59,65,65,0,2017-09-12,Perfect Fitness Perfect Rip Deck,2
+2017-09-13,Field & Stream Sportsman 16 Gun Fire Safe,15,24,20,0,2017-09-13,Field & Stream Sportsman 16 Gun Fire Safe,3
+2017-09-13,Nike Men's CJ Elite 2 TD Football Cleat,35,21,21,14,2017-09-13,Nike Men's CJ Elite 2 TD Football Cleat,3
+2017-09-13,Nike Men's Dri-FIT Victory Golf Polo,64,72,72,0,2017-09-13,Nike Men's Dri-FIT Victory Golf Polo,3
+2017-09-13,O'Brien Men's Neoprene Life Vest,35,101,50,0,2017-09-13,O'Brien Men's Neoprene Life Vest,2
+2017-09-13,Perfect Fitness Perfect Rip Deck,83,71,65,12,2017-09-13,Perfect Fitness Perfect Rip Deck,3
+2017-09-14,Field & Stream Sportsman 16 Gun Fire Safe,20,29,20,0,2017-09-14,Field & Stream Sportsman 16 Gun Fire Safe,3
+2017-09-14,Nike Men's CJ Elite 2 TD Football Cleat,21,21,21,0,2017-09-14,Nike Men's CJ Elite 2 TD Football Cleat,4
+2017-09-14,Nike Men's Dri-FIT Victory Golf Polo,45,80,72,0,2017-09-14,Nike Men's Dri-FIT Victory Golf Polo,5
+2017-09-14,O'Brien Men's Neoprene Life Vest,68,116,50,0,2017-09-14,O'Brien Men's Neoprene Life Vest,2
+2017-09-14,Perfect Fitness Perfect Rip Deck,60,65,65,0,2017-09-14,Perfect Fitness Perfect Rip Deck,3
+2017-09-15,Field & Stream Sportsman 16 Gun Fire Safe,12,29,20,0,2017-09-15,Field & Stream Sportsman 16 Gun Fire Safe,6
+2017-09-15,Nike Men's CJ Elite 2 TD Football Cleat,21,21,21,0,2017-09-15,Nike Men's CJ Elite 2 TD Football Cleat,8
+2017-09-15,Nike Men's Dri-FIT Victory Golf Polo,50,107,72,0,2017-09-15,Nike Men's Dri-FIT Victory Golf Polo,7
+2017-09-15,O'Brien Men's Neoprene Life Vest,58,98,50,0,2017-09-15,O'Brien Men's Neoprene Life Vest,5
+2017-09-15,Perfect Fitness Perfect Rip Deck,71,70,65,1,2017-09-15,Perfect Fitness Perfect Rip Deck,4
+2017-09-16,Field & Stream Sportsman 16 Gun Fire Safe,20,37,20,0,2017-09-16,Field & Stream Sportsman 16 Gun Fire Safe,0
+2017-09-16,Nike Men's CJ Elite 2 TD Football Cleat,30,21,21,9,2017-09-16,Nike Men's CJ Elite 2 TD Football Cleat,6
+2017-09-16,Nike Men's Dri-FIT Victory Golf Polo,45,129,72,0,2017-09-16,Nike Men's Dri-FIT Victory Golf Polo,6
+2017-09-16,O'Brien Men's Neoprene Life Vest,51,90,50,0,2017-09-16,O'Brien Men's Neoprene Life Vest,6
+2017-09-16,Perfect Fitness Perfect Rip Deck,79,65,65,14,2017-09-16,Perfect Fitness Perfect Rip Deck,3
+2017-09-17,Field & Stream Sportsman 16 Gun Fire Safe,23,37,20,0,2017-09-17,Field & Stream Sportsman 16 Gun Fire Safe,10
+2017-09-17,Nike Men's CJ Elite 2 TD Football Cleat,25,21,21,4,2017-09-17,Nike Men's CJ Elite 2 TD Football Cleat,6
+2017-09-17,Nike Men's Dri-FIT Victory Golf Polo,68,156,72,0,2017-09-17,Nike Men's Dri-FIT Victory Golf Polo,10
+2017-09-17,O'Brien Men's Neoprene Life Vest,46,89,50,0,2017-09-17,O'Brien Men's Neoprene Life Vest,4
+2017-09-17,Perfect Fitness Perfect Rip Deck,72,65,65,7,2017-09-17,Perfect Fitness Perfect Rip Deck,5
+2017-09-18,Field & Stream Sportsman 16 Gun Fire Safe,25,34,20,0,2017-09-18,Field & Stream Sportsman 16 Gun Fire Safe,10
+2017-09-18,Nike Men's CJ Elite 2 TD Football Cleat,21,21,21,0,2017-09-18,Nike Men's CJ Elite 2 TD Football Cleat,4
+2017-09-18,Nike Men's Dri-FIT Victory Golf Polo,56,160,72,0,2017-09-18,Nike Men's Dri-FIT Victory Golf Polo,6
+2017-09-18,O'Brien Men's Neoprene Life Vest,59,93,50,0,2017-09-18,O'Brien Men's Neoprene Life Vest,7
+2017-09-18,Perfect Fitness Perfect Rip Deck,48,65,65,0,2017-09-18,Perfect Fitness Perfect Rip Deck,9
+2017-09-19,Field & Stream Sportsman 16 Gun Fire Safe,14,29,20,0,2017-09-19,Field & Stream Sportsman 16 Gun Fire Safe,1
+2017-09-19,Nike Men's CJ Elite 2 TD Football Cleat,21,21,21,0,2017-09-19,Nike Men's CJ Elite 2 TD Football Cleat,4
+2017-09-19,Nike Men's Dri-FIT Victory Golf Polo,67,176,72,0,2017-09-19,Nike Men's Dri-FIT Victory Golf Polo,3
+2017-09-19,O'Brien Men's Neoprene Life Vest,68,84,50,0,2017-09-19,O'Brien Men's Neoprene Life Vest,4
+2017-09-19,Perfect Fitness Perfect Rip Deck,39,82,65,0,2017-09-19,Perfect Fitness Perfect Rip Deck,2
+2017-09-20,Field & Stream Sportsman 16 Gun Fire Safe,19,35,21,0,2017-09-20,Field & Stream Sportsman 16 Gun Fire Safe,3
+2017-09-20,Nike Men's CJ Elite 2 TD Football Cleat,21,21,21,0,2017-09-20,Nike Men's CJ Elite 2 TD Football Cleat,5
+2017-09-20,Nike Men's Dri-FIT Victory Golf Polo,62,181,84,0,2017-09-20,Nike Men's Dri-FIT Victory Golf Polo,7
+2017-09-20,O'Brien Men's Neoprene Life Vest,68,66,52,2,2017-09-20,O'Brien Men's Neoprene Life Vest,5
+2017-09-20,Perfect Fitness Perfect Rip Deck,97,108,69,0,2017-09-20,Perfect Fitness Perfect Rip Deck,6
+2017-09-21,Field & Stream Sportsman 16 Gun Fire Safe,24,36,19,0,2017-09-21,Field & Stream Sportsman 16 Gun Fire Safe,3
+2017-09-21,Nike Men's CJ Elite 2 TD Football Cleat,17,21,20,0,2017-09-21,Nike Men's CJ Elite 2 TD Football Cleat,2
+2017-09-21,Nike Men's Dri-FIT Victory Golf Polo,76,191,54,0,2017-09-21,Nike Men's Dri-FIT Victory Golf Polo,6
+2017-09-21,O'Brien Men's Neoprene Life Vest,45,50,40,0,2017-09-21,O'Brien Men's Neoprene Life Vest,3
+2017-09-21,Perfect Fitness Perfect Rip Deck,86,76,66,10,2017-09-21,Perfect Fitness Perfect Rip Deck,9
+2017-09-22,Field & Stream Sportsman 16 Gun Fire Safe,20,32,22,0,2017-09-22,Field & Stream Sportsman 16 Gun Fire Safe,5
+2017-09-22,Nike Men's CJ Elite 2 TD Football Cleat,18,25,21,0,2017-09-22,Nike Men's CJ Elite 2 TD Football Cleat,6
+2017-09-22,Nike Men's Dri-FIT Victory Golf Polo,64,187,80,0,2017-09-22,Nike Men's Dri-FIT Victory Golf Polo,5
+2017-09-22,O'Brien Men's Neoprene Life Vest,64,55,52,9,2017-09-22,O'Brien Men's Neoprene Life Vest,6
+2017-09-22,Perfect Fitness Perfect Rip Deck,45,65,58,0,2017-09-22,Perfect Fitness Perfect Rip Deck,2
+2017-09-23,Field & Stream Sportsman 16 Gun Fire Safe,13,32,22,0,2017-09-23,Field & Stream Sportsman 16 Gun Fire Safe,0
+2017-09-23,Nike Men's CJ Elite 2 TD Football Cleat,24,28,21,0,2017-09-23,Nike Men's CJ Elite 2 TD Football Cleat,8
+2017-09-23,Nike Men's Dri-FIT Victory Golf Polo,51,195,78,0,2017-09-23,Nike Men's Dri-FIT Victory Golf Polo,7
+2017-09-23,O'Brien Men's Neoprene Life Vest,47,50,40,0,2017-09-23,O'Brien Men's Neoprene Life Vest,3
+2017-09-23,Perfect Fitness Perfect Rip Deck,72,85,46,0,2017-09-23,Perfect Fitness Perfect Rip Deck,6
+2017-09-24,Field & Stream Sportsman 16 Gun Fire Safe,25,39,22,0,2017-09-24,Field & Stream Sportsman 16 Gun Fire Safe,5
+2017-09-24,Nike Men's CJ Elite 2 TD Football Cleat,23,25,23,0,2017-09-24,Nike Men's CJ Elite 2 TD Football Cleat,8
+2017-09-24,Nike Men's Dri-FIT Victory Golf Polo,85,216,71,0,2017-09-24,Nike Men's Dri-FIT Victory Golf Polo,7
+2017-09-24,O'Brien Men's Neoprene Life Vest,56,53,62,3,2017-09-24,O'Brien Men's Neoprene Life Vest,5
+2017-09-24,Perfect Fitness Perfect Rip Deck,59,78,67,0,2017-09-24,Perfect Fitness Perfect Rip Deck,3
+2017-09-25,Field & Stream Sportsman 16 Gun Fire Safe,24,34,19,0,2017-09-25,Field & Stream Sportsman 16 Gun Fire Safe,4
+2017-09-25,Nike Men's CJ Elite 2 TD Football Cleat,16,23,22,0,2017-09-25,Nike Men's CJ Elite 2 TD Football Cleat,1
+2017-09-25,Nike Men's Dri-FIT Victory Golf Polo,46,203,80,0,2017-09-25,Nike Men's Dri-FIT Victory Golf Polo,1
+2017-09-25,O'Brien Men's Neoprene Life Vest,57,50,49,7,2017-09-25,O'Brien Men's Neoprene Life Vest,2
+2017-09-25,Perfect Fitness Perfect Rip Deck,63,84,71,0,2017-09-25,Perfect Fitness Perfect Rip Deck,5
+2017-09-26,Field & Stream Sportsman 16 Gun Fire Safe,16,31,16,0,2017-09-26,Field & Stream Sportsman 16 Gun Fire Safe,4
+2017-09-26,Nike Men's CJ Elite 2 TD Football Cleat,23,28,21,0,2017-09-26,Nike Men's CJ Elite 2 TD Football Cleat,3
+2017-09-26,Nike Men's Dri-FIT Victory Golf Polo,90,241,54,0,2017-09-26,Nike Men's Dri-FIT Victory Golf Polo,7
+2017-09-26,O'Brien Men's Neoprene Life Vest,44,52,54,0,2017-09-26,O'Brien Men's Neoprene Life Vest,4
+2017-09-26,Perfect Fitness Perfect Rip Deck,78,90,77,0,2017-09-26,Perfect Fitness Perfect Rip Deck,5
+2017-09-27,Field & Stream Sportsman 16 Gun Fire Safe,21,34,20,0,2017-09-27,Field & Stream Sportsman 16 Gun Fire Safe,4
+2017-09-27,Nike Men's CJ Elite 2 TD Football Cleat,16,25,21,0,2017-09-27,Nike Men's CJ Elite 2 TD Football Cleat,5
+2017-09-27,Nike Men's Dri-FIT Victory Golf Polo,47,205,72,0,2017-09-27,Nike Men's Dri-FIT Victory Golf Polo,2
+2017-09-27,O'Brien Men's Neoprene Life Vest,54,48,50,6,2017-09-27,O'Brien Men's Neoprene Life Vest,4
+2017-09-27,Perfect Fitness Perfect Rip Deck,82,78,65,4,2017-09-27,Perfect Fitness Perfect Rip Deck,3
+2017-09-28,Field & Stream Sportsman 16 Gun Fire Safe,26,35,20,0,2017-09-28,Field & Stream Sportsman 16 Gun Fire Safe,8
+2017-09-28,Nike Men's CJ Elite 2 TD Football Cleat,19,30,21,0,2017-09-28,Nike Men's CJ Elite 2 TD Football Cleat,7
+2017-09-28,Nike Men's Dri-FIT Victory Golf Polo,79,238,72,0,2017-09-28,Nike Men's Dri-FIT Victory Golf Polo,4
+2017-09-28,O'Brien Men's Neoprene Life Vest,67,52,50,15,2017-09-28,O'Brien Men's Neoprene Life Vest,8
+2017-09-28,Perfect Fitness Perfect Rip Deck,41,58,65,0,2017-09-28,Perfect Fitness Perfect Rip Deck,4
+2017-09-29,Field & Stream Sportsman 16 Gun Fire Safe,20,31,20,0,2017-09-29,Field & Stream Sportsman 16 Gun Fire Safe,5
+2017-09-29,Nike Men's CJ Elite 2 TD Football Cleat,23,32,21,0,2017-09-29,Nike Men's CJ Elite 2 TD Football Cleat,6
+2017-09-29,Nike Men's Dri-FIT Victory Golf Polo,82,237,72,0,2017-09-29,Nike Men's Dri-FIT Victory Golf Polo,7
+2017-09-29,O'Brien Men's Neoprene Life Vest,27,40,50,0,2017-09-29,O'Brien Men's Neoprene Life Vest,4
+2017-09-29,Perfect Fitness Perfect Rip Deck,38,63,65,0,2017-09-29,Perfect Fitness Perfect Rip Deck,5
+2017-09-30,Field & Stream Sportsman 16 Gun Fire Safe,17,33,20,0,2017-09-30,Field & Stream Sportsman 16 Gun Fire Safe,3
+2017-09-30,Nike Men's CJ Elite 2 TD Football Cleat,28,32,21,0,2017-09-30,Nike Men's CJ Elite 2 TD Football Cleat,9
+2017-09-30,Nike Men's Dri-FIT Victory Golf Polo,72,226,72,0,2017-09-30,Nike Men's Dri-FIT Victory Golf Polo,3
+2017-09-30,O'Brien Men's Neoprene Life Vest,78,75,50,3,2017-09-30,O'Brien Men's Neoprene Life Vest,5
+2017-09-30,Perfect Fitness Perfect Rip Deck,90,92,65,0,2017-09-30,Perfect Fitness Perfect Rip Deck,5
+2017-10-01,Field & Stream Sportsman 16 Gun Fire Safe,14,35,20,0,2017-10-01,Field & Stream Sportsman 16 Gun Fire Safe,2
+2017-10-01,Nike Men's CJ Elite 2 TD Football Cleat,23,26,21,0,2017-10-01,Nike Men's CJ Elite 2 TD Football Cleat,2
+2017-10-01,Nike Men's Dri-FIT Victory Golf Polo,53,234,72,0,2017-10-01,Nike Men's Dri-FIT Victory Golf Polo,4
+2017-10-01,O'Brien Men's Neoprene Life Vest,45,49,50,0,2017-10-01,O'Brien Men's Neoprene Life Vest,7
+2017-10-01,Perfect Fitness Perfect Rip Deck,86,73,65,13,2017-10-01,Perfect Fitness Perfect Rip Deck,7
+2017-10-02,Field & Stream Sportsman 16 Gun Fire Safe,3,37,20,0,2017-10-02,Field & Stream Sportsman 16 Gun Fire Safe,0
+2017-10-02,Nike Men's CJ Elite 2 TD Football Cleat,9,24,21,0,2017-10-02,Nike Men's CJ Elite 2 TD Football Cleat,4
+2017-10-02,Nike Men's Dri-FIT Victory Golf Polo,25,235,72,0,2017-10-02,Nike Men's Dri-FIT Victory Golf Polo,2
+2017-10-02,O'Brien Men's Neoprene Life Vest,23,58,50,0,2017-10-02,O'Brien Men's Neoprene Life Vest,6
+2017-10-02,Perfect Fitness Perfect Rip Deck,34,77,65,0,2017-10-02,Perfect Fitness Perfect Rip Deck,3
